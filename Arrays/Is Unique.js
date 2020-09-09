@@ -1,7 +1,7 @@
 //Verify if a string has all unique characters (ASCII only and ignore spaces)
 
-console.log(isUnique("   I AM    NOT UNIQUE"));
-console.log(isUnique("  I AM    UNiQE"));
+console.log(isUnique("ABC IS UN1QuE"));
+console.log(isUnique("AABC IS NOT UNIQUE"));
 
 function isUnique(str) {
     //Ignoring spaces

@@ -1,1 +1,1 @@
-# cci
+Solutions to coding questions
